@@ -20,7 +20,7 @@ print("0. 나가기")
 while(True):
   choice = input("선택 (1/2/3/4/0): ")
   if choice == '0':
-    print('Calc_Exit')
+    print('안녕히 가십시오')
     break
 
   n1 = float(input("첫 번째 숫자 입력: "))
